@@ -43,7 +43,8 @@ HideCodeWithDLL other can not see the code except decompiler suc
 ​												图1-7
 
 ![image](https://user-images.githubusercontent.com/64005736/174807235-e80177fa-e7cf-4260-9293-b78edc4f34fc.png)
-​												图1-8
+
+图1-8
 
 ![image](https://user-images.githubusercontent.com/64005736/174807755-22177f96-e3a7-4ad9-8347-5583a00e9479.png)
 
@@ -53,18 +54,24 @@ HideCodeWithDLL other can not see the code except decompiler suc
 
 ![image](https://user-images.githubusercontent.com/64005736/174807792-57428abc-0377-4b0c-b812-2099614ff91a.png)
 
-​					图1-10
+
+图1-10
+
 ![image](https://user-images.githubusercontent.com/64005736/174807805-26f67161-76b2-4444-88ba-d4206c350653.png)
 
-​												                            图1-11
+图1-11
+
 
 8. **Inspector面板和运行结果。**
+
 ![image](https://user-images.githubusercontent.com/64005736/174807836-5609fb21-484a-4e83-a094-570f07b0d12e.png)
 
-​										图1-12
+图1-12
+
+
 ![image](https://user-images.githubusercontent.com/64005736/174807867-5fdf1321-79d7-4479-bdc7-726a67376ed5.png)
 
-​												图1-13
+图1-13
 
 
 ## 在Unity项目中直接找到对应的类库使用：
